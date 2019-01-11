@@ -30,7 +30,7 @@ Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ## Deployment
-* [miked13.github.io/Clicky-Game/](https://miked13.github.io/Clicky-Game/)
+* [marvel-cg.herokuapp.com/](https://marvel-cg.herokuapp.com/)
 
 ## Author
 * Mike Diallo
