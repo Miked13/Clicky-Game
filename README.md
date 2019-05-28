@@ -9,7 +9,7 @@ This is a memory game with React JS. The user should avoid clicking on the same 
 * [React-icon](https://www.npmjs.com/package/react-icons): CSS style.
 * [React JS](https://facebook.github.io/create-react-app/): Javascript library.
 * [Card images](https://www.cbr.com/best-marvel-heroes-decade/): Image source.
-* [Github Pages](https://github.com/tschaub/gh-pages): deployment platform.
+* [Heroku](https://www.heroku.com/): Deployment platform.
 
 
 ## Available Scripts
